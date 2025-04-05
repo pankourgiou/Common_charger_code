@@ -1,1 +1,1 @@
-print("One charger for all phones")
+print("One charger for all cell phones")
